@@ -1,0 +1,4 @@
+Tutoriales consultados: Tu Primer Videojuego 2D y Guardar objetos en ficheros JSON, visualizados: https://www.youtube.com/user/Servorius/videos, autor: Héctor Costa Guzmán
+Fuentes para título y marcadores: paladin3d y ppfdark, descargadas: https://fonts.google.com/, autor: Daniel Zadorozny
+Fondo y nubes: glacial mountains y grassy mountains, descargadas: https://itch.io/  autor: Vnitti.
+Nave ovni: inspirado en este modelo de NSSA https://www.shutterstock.com/es/g/neyro2008
